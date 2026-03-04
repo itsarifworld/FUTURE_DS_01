@@ -92,15 +92,8 @@ FUTURE_DS_01/
 └── README.md
 ```
 ## Live Dashboard
-[View Interactive Dashboard](https://lookerstudio.google.com/s/kQSem6iHWcM)
+[View Interactive Dashboard]([https://lookerstudio.google.com/s/kQSem6iHWcM](https://lookerstudio.google.com/reporting/55b3cdf0-3d3e-423f-8185-17507543864d))
 ```
-
-To get your Looker Studio link:
-- Go to Looker Studio
-- Click **`Share`** → **`Manage access`** → **Anyone with link can view**
-- Click **`Copy link`** → paste it above
-
-
 ---
 
 *Completed as part of the **Future Interns — Data Science & Analytics** Internship Program*  
