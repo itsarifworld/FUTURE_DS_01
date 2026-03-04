@@ -92,7 +92,7 @@ FUTURE_DS_01/
 └── README.md
 ```
 ## Live Dashboard
-**[View Interactive Dashboard]([https://lookerstudio.google.com/s/kQSem6iHWcM](https://lookerstudio.google.com/reporting/55b3cdf0-3d3e-423f-8185-17507543864d))
+[View Interactive Dashboard](https://lookerstudio.google.com/s/kQSem6iHWcM](https://lookerstudio.google.com/reporting/55b3cdf0-3d3e-423f-8185-17507543864d))
 ```
 ---
 
